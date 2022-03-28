@@ -1,1 +1,1 @@
-{"v":{"v":"3.6.5","c":"1.细节优化。\n2.bug修复。"},"m":{"u":"https://mp.weixin.qq.com/s/1nLmTEYW9PHYsLXOm8uRSg","q":"https://www.52wubi.com/wbbmcx/search.php"}}
+{"v":{"v":"3.7.0","c":"新增字根详细讲解教程"},"m":{"u":"https://mp.weixin.qq.com/s/1nLmTEYW9PHYsLXOm8uRSg","q":"https://www.52wubi.com/wbbmcx/search.php"}}
