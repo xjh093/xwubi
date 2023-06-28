@@ -1,1 +1,1 @@
-{"v":{"v":"3.7.3","c":"1.打开应用有时候闪退，bug修复。\n2.手机横屏状态下，打开应用界面布局混乱，bug修复。"},"m":{"u":"https://mp.weixin.qq.com/s/M1g8suzdMjIpg6AdwLM3eg","q":"https://www.52wubi.com/wbbmcx/search.php"},"menu":[{"title":"简码教程","type":1,"url":"https://mp.weixin.qq.com/s/MuK0HAKu6rosusQPUnvP5w"}]}
+{"v":{"v":"3.7.6","c":"1.文章练习，字体可以设置大小。\n2.编码查询提升速度，一次可查询 20 个。"},"tg":0,"m":{"u":"https://mp.weixin.qq.com/s/M1g8suzdMjIpg6AdwLM3eg","q":"https://www.52wubi.com/wbbmcx/search.php"},"menu":[{"title":"简码教程","type":1,"url":"https://mp.weixin.qq.com/s/MuK0HAKu6rosusQPUnvP5w"}]}
