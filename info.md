@@ -1,1 +1,1 @@
-{"v":{"v":"3.7.6","c":"1.文章练习，字体可以设置大小。\n2.编码查询提升速度，一次可查询 20 个。"},"tg":0,"m":{"u":"https://mp.weixin.qq.com/s/M1g8suzdMjIpg6AdwLM3eg","q":"https://www.52wubi.com/wbbmcx/search.php"},"menu":[{"title":"简码教程","type":1,"url":"https://mp.weixin.qq.com/s/MuK0HAKu6rosusQPUnvP5w"}]}
+{"v":{"v":"3.7.7","c":"1.简码练习，完成练习后，可以直接切换到下一组。"},"tg":0,"m":{"u":"https://mp.weixin.qq.com/s/M1g8suzdMjIpg6AdwLM3eg","q":"https://www.52wubi.com/wbbmcx/search.php"},"menu":[]}
